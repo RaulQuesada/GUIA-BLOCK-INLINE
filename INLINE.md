@@ -56,9 +56,9 @@
 
 <sup>
 
-<textarea
+<textarea>
 
-><time>
+<time>
 
 <tt>
 
